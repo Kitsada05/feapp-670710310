@@ -1,6 +1,5 @@
 import MovieGallery from "../Components/MovieGallery";
 import MovieCard from "../Components/Moviecard";
-import { useState } from "react";
 
 function Home() {
   return (
