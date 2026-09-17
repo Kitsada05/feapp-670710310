@@ -1,4 +1,4 @@
-import  react  from 'react';
+import  React  from 'react';
 function SearchBox({query,setQuery}) {
   //const [query, setQuery] = useState('');
 
